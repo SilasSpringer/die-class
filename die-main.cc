@@ -1,9 +1,7 @@
 /*
 
 * Author: Silas Springer
-
 * Date: 1/14/2020
-
 * Description: Add driver file for die class
 
 */
