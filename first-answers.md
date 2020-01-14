@@ -1,0 +1,1 @@
+#1: Git resfused to update master since local data being pushed from cory's computer overlapped with my data already on Github. essentially git is refusing to update the online version since it is different and overlapping with the local version.
