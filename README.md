@@ -1,2 +1,2 @@
-# die-class
-git-lab-2-die-class
+# Git Lab #2
+## First team member: Silas Springer
